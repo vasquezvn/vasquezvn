@@ -9,7 +9,7 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-(https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
+[image](https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
 
 
 ### 🔍 Find me on:
