@@ -9,7 +9,7 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-![Alt Java](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-128.png)
+![Alt Java](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-128.png) ![Alt C#](https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/cc-2-128.png) 
 
 
 ### 🔍 Find me on:
