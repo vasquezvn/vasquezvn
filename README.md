@@ -9,7 +9,7 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-![Alt Java](https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png)
+![Alt Java](https://cdn.iconscout.com/icon/premium/png-512-thumb/java-2752149-2284966.png?f=webp&w=512)
 
 
 ### 🔍 Find me on:
