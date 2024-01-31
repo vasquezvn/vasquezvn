@@ -9,7 +9,7 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-![Alt Java](https://cdn.iconscout.com/icon/premium/png-512-thumb/java-2752149-2284966.png?f=webp&w=512)
+![Alt Java](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-128.png)
 
 
 ### 🔍 Find me on:
