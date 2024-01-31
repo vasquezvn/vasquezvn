@@ -9,7 +9,7 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-[https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F30%2FJava_programming_language_logo.svg%2F1200px-Java_programming_language_logo.svg.png&tbnid=-EIFc17OSqDoXM&vet=12ahUKEwiWt9jws4iEAxWhqpUCHVtYBX0QMygAegQIARBu..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&docid=ty8cA0ylPEPayM&w=1200&h=2195&q=java&client=safari&ved=2ahUKEwiWt9jws4iEAxWhqpUCHVtYBX0QMygAegQIARBu![image](https://github.com/vasquezvn/vasquezvn/assets/12836965/99002ee7-21f0-4ff1-98f0-59e8d3e42bca)](https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
+[image](https://github.com/vasquezvn/vasquezvn/assets/12836965/99002ee7-21f0-4ff1-98f0-59e8d3e42bca)](https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
 
 
 ### 🔍 Find me on:
