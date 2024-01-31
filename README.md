@@ -9,8 +9,8 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/102e3459a54bf6df1b29fc108c4163d56b9e9a43a587dd00260fdb8630c3435d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F30%2FJava_programming_language_logo.svg%2F1200px-Java_programming_language_logo.svg.png&tbnid=-EIFc17OSqDoXM&vet=12ahUKEwiWt9jws4iEAxWhqpUCHVtYBX0QMygAegQIARBu..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&docid=ty8cA0ylPEPayM&w=1200&h=2195&q=java&client=safari&ved=2ahUKEwiWt9jws4iEAxWhqpUCHVtYBX0QMygAegQIARBu![image](https://github.com/vasquezvn/vasquezvn/assets/12836965/99002ee7-21f0-4ff1-98f0-59e8d3e42bca)
+
 
 ### 🔍 Find me on:
 - LinkedIn: https://www.linkedin.com/in/ivan-vasquez-138b2689/
