@@ -5,7 +5,7 @@ I'm working as Quality Assurance Specialist for more than 10th years and I learn
 One of my main goals is to become an analytical and deliverative contributor on software testing, taking responsability over software products to create competitive software.
 
 - 🔭 I’m currently working on web platform which requires integration with mobile platforms (iOS & Android)
-- 🌱 I’m currently learning about external modules to generate reports from Automation framework
+- 🌱 I’m currently learning about external modules to generate reports for Automation framework
 
 
 ### 🤖 Some technologies I use:
