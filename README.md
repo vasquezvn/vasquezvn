@@ -9,12 +9,11 @@ One of my main goals is to become an analytical and deliverative contributor on 
 
 
 ### 🤖 Some technologies I use:
-[image](https://github.com/vasquezvn/vasquezvn/assets/12836965/99002ee7-21f0-4ff1-98f0-59e8d3e42bca)](https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
+(https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)
 
 
 ### 🔍 Find me on:
-- LinkedIn: https://www.linkedin.com/in/ivan-vasque![image](https://github.com/vasquezvn/vasquezvn/assets/12836965/eef544b0-8e55-4dd6-91d3-bb87c99e473f)
-z-138b2689/
+- LinkedIn: https://www.linkedin.com/in/ivan-vasquez-138b2689/
 - Email: vasquez.vn@gmail.com
 
 <!--
