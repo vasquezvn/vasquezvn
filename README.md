@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Ivan
 
-I'm working as Quality Assurance Specialist for more than 10th years and I learned about all quality assurance process on companies who work with clients around the world. 
+I have been working as a Quality Assurance Specialist for more than 10 years, during which I have gained knowledge of various quality assurance processes employed by companies that collaborate with clients worldwide.
 
-One of my main goals is to become an analytical and deliverative contributor on software testing, taking responsability over software products to create competitive software.
+One of my main goals is to become an analytical and deliberative contributor in software testing, taking responsibility for software products to create competitive software.
 
 - 🔭 I’m currently working on web platform which requires integration with mobile platforms (iOS & Android)
 - 🌱 I’m currently learning about external modules to generate reports for Automation framework
